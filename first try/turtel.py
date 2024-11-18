@@ -6,7 +6,7 @@ shape = [[1,1,1],[1,0,1],[1,1,1]]
 # get the size of the shape
 height = len(shape)
 width = len(shape[0])
-details = {'length':600, 'repeats': 3}
+details = {'length':800, 'repeats': 4}
 speed = 0
 t.speed(speed)
 positions = {}
